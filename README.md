@@ -3,7 +3,7 @@
 [![NPM License](https://img.shields.io/npm/l/discbotwid?color=00DEC8&style=for-the-badge)](https://www.npmjs.com/package/discbotwid)
 [![Github Size](https://img.shields.io/github/repo-size/discord-card/bot?color=00DEC8&label=SIZE&style=for-the-badge)](https://www.npmjs.com/package/discbotwid)
 
-**[![widget](https://discord.com/api/guilds/553942677117337600/widget.png?style=banner2)](https://discord.gg/Emk2udJ)**
+
 
 <br>
 

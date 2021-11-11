@@ -27,9 +27,10 @@
         "url": "https://github.com/NOXITB/discBotwid"
     },
     "dependencies": {
-        "disccore": "^1.1.5",
         "canvas": "^2.8.0",
-        "canvas-multiline-text": "^1.0.3"
+        "canvas-multiline-text": "^1.0.3",
+        "disccore": "^1.1.5",
+        "typescript": "^4.4.4"
     },
     "devDependencies": {
         "@types/node": "^14.14.22"
