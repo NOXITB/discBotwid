@@ -1,0 +1,37 @@
+{
+    "name": "@discord-card/bot",
+    "version": "1.0.0",
+    "description": "A Package that generates bot widgets for you",
+    "main": "src/index.js",
+    "types": "src/index.d.ts",
+    "scripts": {
+        "build": "tsc",
+        "build:watch": "npm run build -- -w",
+        "prepublishOnly": "npm run build",
+        "link": "npm link && cd ./testing && npm link @discord-card/bot",
+        "test": "node ./testing/",
+        "test:watch": "nodemon -w .\\ .\\testing\\index.js"
+    },
+    "keywords": [
+        "discord",
+        "discord.js",
+        "canvas",
+        "node-canvas",
+        "bot",
+        "bot-card"
+    ],
+    "author": "AKORA Studios",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/discord-card/bot.git"
+    },
+    "dependencies": {
+        "@discord-card/core": "^1.1.5",
+        "canvas": "^2.8.0",
+        "canvas-multiline-text": "^1.0.3"
+    },
+    "devDependencies": {
+        "@types/node": "^14.14.22"
+    }
+}

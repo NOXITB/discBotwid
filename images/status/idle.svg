@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+    <mask id="svg-mask-status-idle" maskContentUnits="objectBoundingBox" viewBox="0 0 1 1">
+        <circle fill="white" cx="0.5" cy="0.5" r="0.5"></circle>
+        <circle fill="black" cx="0.25" cy="0.25" r="0.375"></circle>
+    </mask>
+    <rect width="100" height="100" x="0" y="0" fill="#faa61a" mask="url(#svg-mask-status-idle)"
+        class="pointerEvents-2zdfdO"></rect>
+</svg>
