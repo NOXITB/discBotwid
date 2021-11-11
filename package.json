@@ -1,6 +1,6 @@
 {
     "name": "discbotwid",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A Package that generates bot widgets for you",
     "main": "src/index.js",
     "types": "src/index.d.ts",
