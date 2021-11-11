@@ -1,7 +1,7 @@
 
 import * as drawMultilineText from 'canvas-multiline-text';
 import { createCanvas } from 'canvas';
-import '@discord-card/core';
+import 'disccore';
 import { colors, Options, defaultOptions, images, fancyCount } from './util';
 
 

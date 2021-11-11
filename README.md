@@ -1,7 +1,7 @@
-[![NPM Version](https://img.shields.io/npm/v/@discord-card/bot?color=00DEC8&style=for-the-badge)](https://www.npmjs.com/package/@discord-card/bot)
-[![NPM Downloads](https://img.shields.io/npm/dt/@discord-card/bot?color=00DEC8&style=for-the-badge)](https://www.npmjs.com/package/@discord-card/bot)
-[![NPM License](https://img.shields.io/npm/l/@discord-card/bot?color=00DEC8&style=for-the-badge)](https://www.npmjs.com/package/@discord-card/bot)
-[![Github Size](https://img.shields.io/github/repo-size/discord-card/bot?color=00DEC8&label=SIZE&style=for-the-badge)](https://www.npmjs.com/package/@discord-card/bot)
+[![NPM Version](https://img.shields.io/npm/v/discbotwid?color=00DEC8&style=for-the-badge)](https://www.npmjs.com/package/discbotwid)
+[![NPM Downloads](https://img.shields.io/npm/dt/discbotwid?color=00DEC8&style=for-the-badge)](https://www.npmjs.com/package/discbotwid)
+[![NPM License](https://img.shields.io/npm/l/discbotwid?color=00DEC8&style=for-the-badge)](https://www.npmjs.com/package/discbotwid)
+[![Github Size](https://img.shields.io/github/repo-size/discord-card/bot?color=00DEC8&label=SIZE&style=for-the-badge)](https://www.npmjs.com/package/discbotwid)
 
 **[![widget](https://discord.com/api/guilds/553942677117337600/widget.png?style=banner2)](https://discord.gg/Emk2udJ)**
 
@@ -28,7 +28,7 @@ Simple easy-to-use Bot Card generator that generates a Card displaying all the i
 
 ```javascript
 const Discord = require("discord.js");
-const { welcomeImage } = require('discord-welcome-card');
+const { welcomeImage } = require('discordwl');
 const client = new Discord.Client({
     intents: [ Discord.Intents.FLAGS.GUILDS ]
 });

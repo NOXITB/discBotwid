@@ -1,5 +1,5 @@
 {
-    "name": "@discord-card/bot",
+    "name": "discbotwid",
     "version": "1.0.0",
     "description": "A Package that generates bot widgets for you",
     "main": "src/index.js",
@@ -24,10 +24,10 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git://github.com/discord-card/bot.git"
+        "url": "https://github.com/NOXITB/discBotwid"
     },
     "dependencies": {
-        "@discord-card/core": "^1.1.5",
+        "disccore": "^1.1.5",
         "canvas": "^2.8.0",
         "canvas-multiline-text": "^1.0.3"
     },
